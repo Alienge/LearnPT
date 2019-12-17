@@ -1,7 +1,7 @@
 ## This repo is recording to learn pytorch and implement paper idea. Including some basic function in pytorch document
 if you want to see detail document, please see [pytorch document](https://pytorch.org/docs/stable/index.html)
 
-All files in same dir is bad idea, So I will be move some files into some new dir.
+All files in same dir is bad idea, So I will be move some files into some new dir.(DONE)
 
 ## This course depart three
 - Basic   &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  Most reference of the content introduce in [pytorch document](https://pytorch.org/docs/stable/index.html). Since this is basic skills.
@@ -11,3 +11,5 @@ All files in same dir is bad idea, So I will be move some files into some new di
 
 ## Basic 
 ### introduce
+
+## 
