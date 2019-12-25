@@ -1,11 +1,12 @@
-## This repo is recording to learn pytorch and implement paper idea. Including some basic function in pytorch document
-
 ### Introduce
-If you want to see detail document, please see [pytorch document](https://pytorch.org/docs/stable/index.html)
+ &nbsp;  &nbsp;This repo is recording to learn pytorch and implement paper idea. Including some basic function in pytorch document
 
-All files in same dir is bad idea, So I will be move some files into some new dir.(DONE)
 
-The files grow faster, So the current dir is not avialable to exist, I will be update dir again.
+ &nbsp;  &nbsp;If you want to see detail document, please see [pytorch document](https://pytorch.org/docs/stable/index.html)
+
+ &nbsp;  &nbsp;All files in same dir is bad idea, So I will be move some files into some new dir.(DONE)
+
+ &nbsp;  &nbsp;The files grow faster, So the current dir is not avialable to exist, I will be update dir again.
 
 ### Section
 - Basic   &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  Most reference of the content introduce in [pytorch document](https://pytorch.org/docs/stable/index.html). Since this is basic skills.
@@ -15,7 +16,7 @@ The files grow faster, So the current dir is not avialable to exist, I will be u
 
 
 ### Directions
-The Basic module and Mediate module is easy to use, So I'll spent less of time to write documents. Therefore, Advance course will be payed attention to. Datail document will be writed in my spare times.
+ &nbsp;  &nbsp;The Basic module and Mediate module is easy to use, So I'll spent less of time to write documents. Therefore, Advance course will be payed attention to. Datail document will be writed in my spare times.
 
 
 
@@ -25,4 +26,4 @@ The Basic module and Mediate module is easy to use, So I'll spent less of time t
 
 
 ### Connect with me
-If you have any questions, please connet me with gmail, The detail is zhichaowu543@gmail.com.
+ &nbsp;  &nbsp;If you have any questions, please connet me with gmail, The detail is zhichaowu543@gmail.com.
