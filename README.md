@@ -11,7 +11,14 @@ The files grow faster, So the current dir is not avialable to exist, I will be u
 
 - Advance  &nbsp;  &nbsp;  &nbsp;  &nbsp;       This course I will reproduce the result of recent papers, And this module I will continually update.
 
-## Basic 
-### introduce
+The Basic module and Mediate module is easy to use, So I'll spent less of time to write documents. Therefore, Advance course will be payed attention to. Datail document will be writed in my spare times.
+
+
 
 ## 
+
+
+
+
+
+If you have any questions, please connet me with gmail, The detail is zhichaowu543@gmail.com.
