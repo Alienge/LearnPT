@@ -26,4 +26,4 @@
 
 
 ### Connect with me
- &nbsp;  &nbsp;If you have any questions, please connet me with gmail, The detail is zhichaowu543@gmail.com.
+ &nbsp;  &nbsp;If you have any questions with this course, please  push your issue or connet me with gmail, The detail is zhichaowu543@gmail.com.
